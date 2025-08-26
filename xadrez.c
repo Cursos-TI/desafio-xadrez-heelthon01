@@ -6,7 +6,6 @@ int main() {
     int casasBispo = 2;
     int casasRainha = 4;
 
-    // -----------------------------
     // Torre -> FOR
     // -----------------------------
     // A torre vai se mover 5 casas para a direita
